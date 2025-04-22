@@ -31,7 +31,7 @@ O conjunto dos dados numéricos obtidos após a crítica dos valores coletados c
 
 ### Amplitude total ou "range" (R)
 
-É a diferença entre o maior e o menor valor observado. No exemplo `R = 36 - 21 = 15`
+É a diferença entre o maior e o menor valor observado. No exemplo $R = 36 - 21 = 15$
 
 ### Frequência absoluta ($F_i$)
 
@@ -41,9 +41,8 @@ O conjunto dos dados numéricos obtidos após a crítica dos valores coletados c
 
 É o arranjo dos valores e suas respectivas frequências. Assim, temos:
 
-$\sum 30$
 
-| X_i   | F_i  |
+| $X_i$ | $F_i$  |
 |:----: | :---:| 
 | 21    |   3  | 
 | 22    |   2  | 
@@ -60,11 +59,11 @@ $\sum 30$
 | 35    |   1  |
 | 36    |   1  |
 
-$\sum 30$
+$\sum$ 30
 
-Obs.: `x` representa a variável.
-$\sum F_i = n$.
-`n` é o tamanho da amostra.
+Obs.: $x$ representa a variável.  
+$\sum F_i = n$.  
+$n$ é o tamanho da amostra.    
 
 Exemplo de distribuição de frequência para variável contínua. Seja o $X_i$ o peso de 100 indivíduos:
 
