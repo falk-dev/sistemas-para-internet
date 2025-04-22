@@ -97,10 +97,10 @@ $k \approx 1 + 5,44 =$
 $k \approx 6,44 =$  
 $k = 7$  
 
-Obs.: **Sempre** que o valor for decimal, arredondar para cima, independente do valor fracionário.  
-Ex.: Para:
+Obs.: **Sempre** que o valor for decimal, o valor será arredondado para cima, independente do valor fracionário.  
+Para:
 - $k = 6,01$  
 - $k = 6,2$  
 - $k = 6,35$  
 - $k = 6,9$  
-- (**Todos** se tornarão $k = 7$) 
+(**Todos** se tornarão $k = 7$) 
