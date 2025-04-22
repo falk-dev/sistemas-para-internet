@@ -33,4 +33,4 @@ O conjunto dos dados numéricos obtidos após a crítica dos valores coletados c
 
 É a diferença entre o maior e o menor valor observado. No exemplo `R = 36 - 21 = 15`
 
-### Frequência absoluta (`F_{\underline{i}}`)
+### Frequência absoluta ($F_i$)
