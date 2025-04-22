@@ -75,6 +75,10 @@ Exemplo de distribuição de frequência para variável contínua. Seja o $X_i$ 
 | $[75, 85)$ |   15   |
 | $[85, 95)$ |   5    |
 
+Obs. 1: `[` significa que o elemento está incluído. 
+Obs. 2: `)` significa que o elemento **não** está incluso no conjunto.
+Ex.: a primeira classe é formada por: [45, 46, 47, 48, 49, 50, 51, 52, 53, 54]. Note que o ``45`` está no conjunto, enquanto o ``55`` não está. 
+
 ### Número de classes (k)
 
 Não há uma fórmula exata para o cálculo do número de classes.
@@ -84,9 +88,9 @@ Não há uma fórmula exata para o cálculo do número de classes.
 
 Seja $n = 49$, temos:
 
-$ k \approx 1 + 3,22 \times \ln(49) = $
-$ k \approx 1 + 3,22 \times 1,69 = $
-$ k \approx 1 + 5,44 = $
-$ k \approx 6,44 = $
-$ k \approx 6,44 = $
-$ k = 7 $
+$k \approx 1 + 3,22 \times \ln(49) =$
+$k \approx 1 + 3,22 \times 1,69 =$
+$k \approx 1 + 5,44 =$
+$k \approx 6,44 =$
+$k \approx 6,44 =$
+$k = 7$
