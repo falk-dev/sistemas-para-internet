@@ -88,9 +88,9 @@ Não há uma fórmula exata para o cálculo do número de classes.
 
 Seja $n = 49$, temos:
 
-$k \approx 1 + 3,22 \times \ln(49) =$
-$k \approx 1 + 3,22 \times 1,69 =$
-$k \approx 1 + 5,44 =$
-$k \approx 6,44 =$
-$k \approx 6,44 =$
+$k \approx 1 + 3,22 \times log 49 =$  
+$k \approx 1 + 3,22 \times 1,69 =$  
+$k \approx 1 + 5,44 =$  
+$k \approx 6,44 =$  
+$k \approx 6,44 =$  
 $k = 7$
