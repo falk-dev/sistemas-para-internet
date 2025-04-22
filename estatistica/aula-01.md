@@ -87,7 +87,7 @@ Ex.: a primeira classe é formada por: [45, 46, 47, 48, 49, 50, 51, 52, 53, 54].
 Não há uma fórmula exata para o cálculo do número de classes.
 
 - a) $k = 5$ para $\leq 25$ e $k \approx \sqrt{n}$, $n > 25$.
-- b) Fórmula de Sturgs: $k \approx 1 + 3,22 \times \ln(n)$ $\forall n$.
+- b) Fórmula de Sturgs: $k \approx 1 + 3,22 \times log(n)$  $\forall n$.
 
 Seja $n = 49$, temos:
 
