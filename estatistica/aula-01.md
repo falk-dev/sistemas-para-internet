@@ -34,3 +34,64 @@ O conjunto dos dados numéricos obtidos após a crítica dos valores coletados c
 É a diferença entre o maior e o menor valor observado. No exemplo `R = 36 - 21 = 15`
 
 ### Frequência absoluta ($F_i$)
+
+É o número de vezes que o elemento aparece na amostra, ou o número de elementos pertencentes a uma classe. No exemplo $F_21$ = 3.
+
+### Distribuição de frequência
+
+É o arranjo dos valores e suas respectivas frequências. Assim, temos:
+
+\begin{tabular}{|c|c|}
+  \hline
+  $X_i$ & $F_i \\
+  \hline
+  21 & 3 \\
+  22 & 2 \\
+  23 & 2 \\
+  24 & 1 \\
+  25 & 4 \\
+  26 & 3 \\
+  28 & 1 \\
+  30 & 1 \\
+  31 & 3 \\
+  32 & 1 \\
+  33 & 3 \\
+  34 & 3 \\
+  35 & 2 \\
+  36 & 1 \\
+  \hline
+\end{tabular}
+$\sum 30$
+
+Obs.: `x` representa a variável.
+$\sum F_i = n$.
+`n` é o tamanho da amostra.
+
+Exemplo de distribuição de frequência para variável contínua. Seja o $X_i$ o peso de 100 indivíduos:
+
+\begin{tabular}{|c|c|}
+  \hline
+  Classe & $F_i \\
+  \hline
+  45 |-- 55 & 15 \\
+  55 |-- 65 & 30 \\
+  65 |-- 75 & 35 \\
+  75 |-- 85 & 15 \\
+  85 |-- 95 & 5 \\
+  \hline
+\end{tabular}
+
+### Número de classes (k)
+
+Não há uma fórmula exata para o cálculo do número de classes.
+
+- a) `k = 5` para $\leq$ 25 e `k $\approx$ \sqrt{n}$`, `n $>$ 25`.
+- b) Fórmula de Sturgs: `k $\approx$ 1 $+$ 3,22 $\times$ log n $\forall$ n`.
+
+Seja `n = 49`, temos:
+
+`k $\approx$ 1 $+$ 3,22 $\times$ log 49 =`
+`k $\approx$ 1 $+$ 3,22 $\times$ 1,69 =`
+`k $\approx$ 1 $+$ 5,44 =`
+`k $\approx$ 6,44 =`
+`k = 7`
