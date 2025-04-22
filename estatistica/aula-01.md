@@ -95,4 +95,12 @@ $k \approx 1 + 3,22 \times log 49 =$
 $k \approx 1 + 3,22 \times 1,69 =$  
 $k \approx 1 + 5,44 =$  
 $k \approx 6,44 =$  
-$k = 7$
+$k = 7$  
+
+Obs.: **Sempre** que o valor for decimal, arredondar para cima, independente do valor fracionário.  
+Ex.: Para:
+- $k = 6,01$  
+- $k = 6,2$  
+- $k = 6,35$  
+- $k = 6,9$  
+- (**Todos** se tornarão $k = 7$) 
