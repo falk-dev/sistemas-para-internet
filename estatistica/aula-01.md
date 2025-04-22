@@ -104,4 +104,4 @@ Para:
 - $k = 6,35$  
 - $k = 6,9$  
   
-(**Todos** se tornarão $k = 7$) 
+**Todos** se tornarão $k = 7$.
