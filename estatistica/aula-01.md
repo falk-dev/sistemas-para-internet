@@ -41,26 +41,25 @@ O conjunto dos dados numéricos obtidos após a crítica dos valores coletados c
 
 É o arranjo dos valores e suas respectivas frequências. Assim, temos:
 
-\begin{tabular}{|c|c|}
-  \hline
-  $X_i$ & $F_i \\
-  \hline
-  21 & 3 \\
-  22 & 2 \\
-  23 & 2 \\
-  24 & 1 \\
-  25 & 4 \\
-  26 & 3 \\
-  28 & 1 \\
-  30 & 1 \\
-  31 & 3 \\
-  32 & 1 \\
-  33 & 3 \\
-  34 & 3 \\
-  35 & 2 \\
-  36 & 1 \\
-  \hline
-\end{tabular}
+$\sum 30$
+
+| X_i   | F_i  |
+|:----: | :---:| 
+| 21    |   3  | 
+| 22    |   2  | 
+| 23    |   2  | 
+| 24    |   1  |
+| 25    |   1  |
+| 26    |   1  |
+| 28    |   1  |
+| 30    |   1  |
+| 31    |   1  |
+| 32    |   1  |
+| 33    |   1  |
+| 34    |   1  |
+| 35    |   1  |
+| 36    |   1  |
+
 $\sum 30$
 
 Obs.: `x` representa a variável.
