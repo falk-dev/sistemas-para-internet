@@ -80,14 +80,14 @@ Exemplo de distribuição de frequência para variável contínua. Seja o $X_i$ 
 
 Obs. 1: `[` significa que o elemento está incluído.  
 Obs. 2: `)` significa que o elemento **não** está incluso no conjunto.  
-Ex.: a primeira classe é formada por: [45, 46, 47, 48, 49, 50, 51, 52, 53, 54]. Note que o ``45`` está no conjunto, enquanto o ``55`` não está.   
+Ex.: a primeira classe é formada por: [45, 46, 47, 48, 49, 50, 51, 52, 53, 54]. Note que o $45$ está no conjunto, enquanto o $55$ não está.   
 
 ### Número de classes (k)
 
 Não há uma fórmula exata para o cálculo do número de classes.
 
-- a) $k = 5$ para $\leq 25$ e $k \approx \sqrt{n}, n > 25$.
-- b) Fórmula de Sturgs: $k \approx 1 + 3,22 \times \ln(n) \forall n$.
+- a) $k = 5$ para $\leq 25$ e $k \approx \sqrt{n}$, $n > 25$.
+- b) Fórmula de Sturgs: $k \approx 1 + 3,22 \times \ln(n)$ $\forall n$.
 
 Seja $n = 49$, temos:
 
