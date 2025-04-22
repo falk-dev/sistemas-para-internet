@@ -75,9 +75,9 @@ Exemplo de distribuição de frequência para variável contínua. Seja o $X_i$ 
 | $[75, 85)$ |   15   |
 | $[85, 95)$ |   5    |
 
-Obs. 1: `[` significa que o elemento está incluído. 
-Obs. 2: `)` significa que o elemento **não** está incluso no conjunto.
-Ex.: a primeira classe é formada por: [45, 46, 47, 48, 49, 50, 51, 52, 53, 54]. Note que o ``45`` está no conjunto, enquanto o ``55`` não está. 
+Obs. 1: `[` significa que o elemento está incluído.  
+Obs. 2: `)` significa que o elemento **não** está incluso no conjunto.  
+Ex.: a primeira classe é formada por: [45, 46, 47, 48, 49, 50, 51, 52, 53, 54]. Note que o ``45`` está no conjunto, enquanto o ``55`` não está.   
 
 ### Número de classes (k)
 
