@@ -48,15 +48,15 @@ O conjunto dos dados numéricos obtidos após a crítica dos valores coletados c
 | 22    |   2  | 
 | 23    |   2  | 
 | 24    |   1  |
-| 25    |   1  |
-| 26    |   1  |
+| 25    |   4  |
+| 26    |   3  |
 | 28    |   1  |
 | 30    |   1  |
-| 31    |   1  |
+| 31    |   3  |
 | 32    |   1  |
-| 33    |   1  |
-| 34    |   1  |
-| 35    |   1  |
+| 33    |   3  |
+| 34    |   3  |
+| 35    |   2  |
 | 36    |   1  |
 
 $\sum$ 30
@@ -67,29 +67,26 @@ $n$ é o tamanho da amostra.
 
 Exemplo de distribuição de frequência para variável contínua. Seja o $X_i$ o peso de 100 indivíduos:
 
-\begin{tabular}{|c|c|}
-  \hline
-  Classe & $F_i \\
-  \hline
-  45 |-- 55 & 15 \\
-  55 |-- 65 & 30 \\
-  65 |-- 75 & 35 \\
-  75 |-- 85 & 15 \\
-  85 |-- 95 & 5 \\
-  \hline
-\end{tabular}
+| Classe     | $F_i$  |
+|:----:      | :---:  | 
+| $[45, 55)$ |   15   | 
+| $[55, 65)$ |   30   |
+| $[65, 75)$ |   35   |
+| $[75, 85)$ |   15   |
+| $[85, 95)$ |   5    |
 
 ### Número de classes (k)
 
 Não há uma fórmula exata para o cálculo do número de classes.
 
-- a) `k = 5` para $\leq$ 25 e `k $\approx$ \sqrt{n}$`, `n $>$ 25`.
-- b) Fórmula de Sturgs: `k $\approx$ 1 $+$ 3,22 $\times$ log n $\forall$ n`.
+- a) $k = 5$ para $\leq 25$ e $k \approx \sqrt{n}, n > 25$.
+- b) Fórmula de Sturgs: $k \approx 1 + 3,22 \times \ln(n) \forall n$.
 
-Seja `n = 49`, temos:
+Seja $n = 49$, temos:
 
-`k $\approx$ 1 $+$ 3,22 $\times$ log 49 =`
-`k $\approx$ 1 $+$ 3,22 $\times$ 1,69 =`
-`k $\approx$ 1 $+$ 5,44 =`
-`k $\approx$ 6,44 =`
-`k = 7`
+$ k \approx 1 + 3,22 \times \ln(49) = $
+$ k \approx 1 + 3,22 \times 1,69 = $
+$ k \approx 1 + 5,44 = $
+$ k \approx 6,44 = $
+$ k \approx 6,44 = $
+$ k = 7 $
