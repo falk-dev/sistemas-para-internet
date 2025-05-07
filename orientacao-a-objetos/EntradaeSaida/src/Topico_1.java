@@ -16,7 +16,7 @@ public class Topico_1 {
 		
 		int idade = ano_atual - ano_nascimento;
 		
-		System.out.println("Hey, " + nome + "! VocÃª tem " + idade + " anos!");
+		System.out.println("Hey, " + nome + "! Você tem " + idade + " anos!");
 		
 		
 		teclado.close();
