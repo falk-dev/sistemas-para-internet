@@ -9,9 +9,9 @@ public class Topico_2 {
 		int idade = teclado.nextInt();
 		
 		if (idade < 18) {
-			System.out.println("VocÃª Ã© menor de idade!");
+			System.out.println("Você é menor de idade!");
 		} else {
-			System.out.println("VocÃª Ã© maior de idade!");
+			System.out.println("Você é maior de idade!");
 		}
 		
 		int dia = 1;
@@ -22,7 +22,7 @@ public class Topico_2 {
 		case 2: 
 			System.out.println("Segunda-feira");
 		case 3: 
-			System.out.println("TerÃ§a-feira");
+			System.out.println("Terça-feira");
 		case 4: 
 			System.out.println("Quarta-feira");
 		case 5: 
@@ -30,9 +30,9 @@ public class Topico_2 {
 		case 6: 
 			System.out.println("Sexta-feira");
 		case 7: 
-			System.out.println("SÃ¡bado");
+			System.out.println("Sábado");
 		default:
-			System.out.println("Dia invÃ¡lido!");
+			System.out.println("Dia inválido!");
 		}
 		
 		teclado.close();
