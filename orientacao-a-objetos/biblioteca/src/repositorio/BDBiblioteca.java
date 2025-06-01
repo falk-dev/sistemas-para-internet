@@ -1,5 +1,5 @@
 package repositorio;
-//impotando
+//importando
 import modelo.Emprestimo;
 import modelo.Usuario;
 import modelo.Livro;
